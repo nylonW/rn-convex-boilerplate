@@ -9,7 +9,9 @@
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.adianit.rn-convex-boilerplate",
+      "appleTeamId": "A4RSAW4A69"
     },
     "web": {
       "output": "static",
